@@ -27,3 +27,11 @@ In essence, I have used a modified version of the classic binary search algorith
 I chose Python 2 due to my experience in the past with it, and my familiarity with testing in the Python environment.
 
 Initially I realized I could simply linearly scan to find the max, but then I noticed how this problem closely resembled binary search, so I modified the algorithm to handle this case. I wrote several test-cases, which I believe sufficiently show the completeness of this solution.
+
+#### Running instructions:
+
+I have provided tests, simply run them with:
+```
+  python shifted.py
+```
+  
